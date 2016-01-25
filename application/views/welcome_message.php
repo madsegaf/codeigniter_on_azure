@@ -84,5 +84,7 @@
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>
 </div>
 
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="/willyfoo/videos/vb.96738939244/10153324299714245/?type=3"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/willyfoo/videos/10153324299714245/"><a href="https://www.facebook.com/willyfoo/videos/10153324299714245/"></a><p>Putting things in perspective. We are tiny, really tiny</p>Posted by <a href="https://www.facebook.com/willyfoo/">Willy Foo - Photographer, Marketer, Technopreneur</a> on Monday, 9 March 2015</blockquote></div></div>
+
 </body>
 </html>
